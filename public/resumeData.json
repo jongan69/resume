@@ -108,18 +108,6 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Volunteer Space",
-        "category":"A React blockchain platform that was built at a hackathon to verify volunteer hours and events",
-        "image":"volunteerspace.PNG",
-        "url":"http://unpaidlabor.tech"
-      },
-      {
-        "title":"Prepit App",
-        "category":"An application for food and dietary information",
-        "image":"Prepit.PNG",
-        "url":"https://prepit.org"
-      },
-      {
         "title":"Phoenix Hacks App",
         "category":"A mobile application being built for the 2020 Florida Polytechnic Univeristy Phoenix Hackathon",
         "image":"phoenixhacksapp.jpeg",
@@ -130,6 +118,18 @@
         "category":"A mobile app that was built to amplify a stadium vistitors expirience",
         "image":"amplifyapp.PNG",
         "url":"github.com/jongan69/amplify"
+      },
+      {
+        "title":"Volunteer Space",
+        "category":"A React blockchain platform that was built at a hackathon to verify volunteer hours and events",
+        "image":"volunteerspace.PNG",
+        "url":"http://unpaidlabor.tech"
+      },
+      {
+        "title":"Prepit App",
+        "category":"An application for food and dietary information",
+        "image":"Prepit.PNG",
+        "url":"https://prepit.org"
       }
     ]
   },
