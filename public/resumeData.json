@@ -108,34 +108,28 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Volunteer Space",
+        "category":"A React blockchain platform that was built at a hackathon to verify volunteer hours and events",
+        "image":"resume-website.jpg",
+        "url":"http://unpaidlabor.tech"
+      },
+      {
         "title":"Prepit App",
         "category":"An application for food and dietary information",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "image":"Prepit.PNG",
+        "url":"https://prepit.org"
       },
       {
         "title":"Phoenix Hacks App",
-        "category":"(offline now) A fighting gear company I started",
+        "category":"A mobile application being built for the 2020 Florida Polytechnic Univeristy Phoenix Hackathon",
         "image":"phoenixhacksapp.jpeg",
         "url":"http://www.phoenixhacks.com"
       },
       {
         "title":"Amplify",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"amplifyapp.png",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "category":"A mobile app that was built to amplify a stadium vistitors expirience",
+        "image":"amplifyapp.PNG",
+        "url":"github.com/jongan69/amplify"
       }
     ]
   },
