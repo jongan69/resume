@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name":"Jonathan Gan",
+    "occupation":"Computer Engineering Student",
+    "description":"I am a Full Stack React and React Native Developer with and interest in Blockchain and Mobile Application Development",
+    "image":"profilepic.jpg",
+    "bio":"I love to use Javascript and React Native to Develop amazing Technologies",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jonathang132298@gmail.com",
+    "phone": "727-325-3436",
+    "address":{
+      "street":"Long Lake Circle",
+      "city":"Lakeland",
+      "state":"Florida",
+      "zip": "33805"
+    },
+    "website": "http://www.cryptocurrensea.io",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://www.cryptocurrensea.io",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://www.cryptocurrensea.io",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jongan69",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/jongan69",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/jongan69",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Florida Polytechnic University",
+        "degree":"Student Computer Engineer",
+        "graduated":"May 2021",
+        "description":"I currently am enrolled for a Bachelors Degree in Computer Engineering with a concentration in Machine Intelligence"
+      },
+      {
+        "school":"Online Courses",
+        "degree":"N/A",
+        "graduated":"N/A",
+        "description":"I do online courses for cirtifications that can be seen on my Linkedin"
+      }
+    ],
+    "work":[
+      {
+        "company":"Accusoft",
+        "title":" SaaS Intern",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"React Native",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"React",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"20%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Prepit App",
+        "category":"An application for food and dietary information",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
