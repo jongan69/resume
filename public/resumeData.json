@@ -4,8 +4,8 @@
     "occupation":"Computer Engineering Student",
     "description":"I am a Full Stack React and React Native Developer with and interest in Blockchain and Mobile Application Development",
     "image":"profilepic.JPG",
-    "bio":"I love to use Javascript and React Native to Develop amazing Technologies",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I love to use Javascript and React Native to Develop amazing Technologies. I also write medium articles @cryptocurrensea",
+    "contactmessage":"If you have any software needs, feel free to reach out and even if I can't assist you I can connect you with someone who can!",
     "email": "jonathang132298@gmail.com",
     "phone": "727-325-3436",
     "address":{
@@ -15,22 +15,12 @@
       "zip": "33805"
     },
     "website": "http://www.cryptocurrensea.io",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1z4nm4CGIaNYONVhVQ10ckhM5epxyTLu-/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
-        "url":"http://www.cryptocurrensea.io",
+        "url":"https://www.facebook.com/cryptocurensea",
         "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://www.cryptocurrensea.io",
-        "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
@@ -46,16 +36,11 @@
         "name":"github",
         "url":"http://github.com/jongan69",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I am most skilled in Javascript ES6 / React + React Native with expirience in C/C++/Objective-C, Swift, Mongodb, Azure, AWS, Heroku, UX/UI, and SCRUM",
     "education":[
       {
         "school":"Florida Polytechnic University",
@@ -136,12 +121,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"No cap, this guys good",
+        "user":"Mom"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Jon doesn't give up on any project he's handed and will do the best work he can give",
+        "user":"Unknown"
       }
     ]
   }
