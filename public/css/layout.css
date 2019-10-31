@@ -49,7 +49,6 @@ header:before {
    height: 100%;
 }
 header .banner {
-   opacity: 0.8;
    display: inline-block;
    vertical-align: middle;
    margin: 0 auto;
