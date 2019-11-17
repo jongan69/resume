@@ -50,35 +50,41 @@
       },
       {
         "school":"Online Courses",
-        "degree":"N/A",
+        "degree":"EDX / Udemy / Linkedin Learning",
         "graduated":"N/A",
         "description":"I do online courses for cirtifications that can be seen on my Linkedin"
       }
     ],
     "work":[
       {
-        "company":"Accusoft",
-        "title":" SaaS Intern",
-        "years":"March 2010 - Present",
-        "description":"I did backend react code for the company as a sophmore while being apart of a very powerful engineering team"
-      }
+        "company":"Blockspaces",
+        "title":"Blockchain Research Intern",
+        "years":"October 2019 - Present",
+        "description":"I research the different blockchain technoloigies that Blockspaces assigns me for internal development purposes"
+      },
+       {
+					"company": "Accusoft",
+					"title": "SaaS Intern",
+					"years": "May 2019 - July 2019",
+					"description": "I did backend react code for the company as a sophmore while being apart of a very powerful engineering team"
+				}
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"80%"
-      },
-      {
-        "name":"React Native",
-        "level":"70%"
-      },
-      {
-        "name":"CSS",
         "level":"90%"
       },
       {
+        "name":"CSS",
+        "level":"85%"
+      },
+      {
         "name":"HTML5",
-        "level":"80%"
+        "level":"85%"
+      },
+      {
+        "name":"React Native",
+        "level":"75%"
       },
       {
         "name":"React",
@@ -121,11 +127,11 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"No cap, this guys good",
+        "text":"\"No cap, this guy's good\"",
         "user":"Mom"
       },
       {
-        "text":"Jon doesn't give up on any project he's handed and will do the best work he can give",
+        "text":"\"Jon doesn't give up on any project he's handed and will do the best work he can give\"",
         "user":"Unknown"
       }
     ]

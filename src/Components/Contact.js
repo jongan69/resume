@@ -92,17 +92,24 @@ class Contact extends Component {
                   <ul id="twitter">
                      <li>
                         <span>
-                       Blockchain / Cryptocurrency Fundamentals: 
-                        <a href="#"> https://courses.edx.org/courses/course-v1:BerkeleyX+CS198.1x+3T2018/course/</a>
+                       Medium Articles: 
+                        <a href="#"> https://medium.com/@cryptocurrensea</a>
                         </span>
-                        <b><a href="#">Mobile Development</a></b>
+                        <b><a href="#">Personal Articles</a></b>
                      </li>
                      <li>
                         <span>
                        React Native Development
                         <a href="#"> https://www.linkedin.com/learning/paths/become-a-react-native-developer?u=57688113</a>
                         </span>
-                        <b><a href="#">3 Days Ago</a></b>
+                        <b><a href="#">Mobile Development</a></b>
+                     </li>
+                     <li>
+                        <span>
+                       Blockchain / Cryptocurrency Fundamentals: 
+                        <a href="#"> https://courses.edx.org/courses/course-v1:BerkeleyX+CS198.1x+3T2018/course/</a>
+                        </span>
+                        <b><a href="#">Blockchain</a></b>
                      </li>
                   </ul>
 		         </div>
