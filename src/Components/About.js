@@ -24,7 +24,16 @@ class About extends Component {
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
+            
+         <iframe width="560" 
+         title="Youtube"
+         height="315" 
+         src="https://www.youtube.com/embed/9R7c59iECfI" 
+         frameborder="0" 
+         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+         allowfullscreen>
 
+         </iframe>
             <p>{bio}</p>
             <div className="row">
                <div className="columns contact-details">
