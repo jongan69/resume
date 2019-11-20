@@ -23,17 +23,24 @@ class About extends Component {
             <img className="profile-pic"  src={profilepic} alt="Jonathan Gan Profile Pic" />
          </div>
          <div className="nine columns main-col">
-            <h2>About Me</h2>
-            
-         <iframe width="560" 
+
+<iframe width="420" 
          title="Youtube"
-         height="315" 
+         alignItems="center"
+         display="flex"
+         pading="10px"
+         margin="45px"
+         height="300" 
+         justifyContent="center"
          src="https://www.youtube.com/embed/9R7c59iECfI" 
          frameborder="0" 
          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
          allowfullscreen>
-
          </iframe>
+
+            <h2>About Me</h2>
+            
+         
             <p>{bio}</p>
             <div className="row">
                <div className="columns contact-details">
