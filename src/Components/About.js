@@ -24,19 +24,7 @@ class About extends Component {
          </div>
          <div className="nine columns main-col">
 
-<iframe width="420" 
-         title="Youtube"
-         alignItems="center"
-         display="flex"
-         pading="10px"
-         margin="45px"
-         height="300" 
-         justifyContent="center"
-         src="https://www.youtube.com/embed/9R7c59iECfI" 
-         frameborder="0" 
-         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-         allowfullscreen>
-         </iframe>
+<iframe width="300" height="200" src="https://www.youtube.com/embed/ELSdieLPV70" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
             <h2>About Me</h2>
             

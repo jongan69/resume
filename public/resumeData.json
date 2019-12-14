@@ -99,10 +99,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Phoenix Hacks App",
-        "category":"A mobile application being built for the 2020 Florida Polytechnic Univeristy Phoenix Hackathon",
-        "image":"phoenixhacksapp.jpeg",
-        "url":"http://www.phoenixhacks.com"
+        "title":"Cryptocurrensea Store",
+        "category":"An online Dropshipping Business I run as part of a software development firm I aim to get off the ground.",
+        "image":"Cryptoshop.png",
+        "url":"https://store.cryptocurrensea.io"
       },
       {
         "title":"Amplify",
@@ -121,6 +121,12 @@
         "category":"An application for food and dietary information",
         "image":"Prepit.PNG",
         "url":"https://prepit.org"
+      },
+       {
+        "title":"Phoenix Hacks App",
+        "category":"A mobile application being built for the 2020 Florida Polytechnic Univeristy Phoenix Hackathon",
+        "image":"phoenixhacksapp.jpeg",
+        "url":"http://www.phoenixhacks.com"
       }
     ]
   },
