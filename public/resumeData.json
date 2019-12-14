@@ -46,7 +46,7 @@
         "school":"Florida Polytechnic University",
         "degree":"Student Computer Engineer",
         "graduated":"May 2021",
-        "description":"I currently am enrolled for a Bachelors Degree in Computer Engineering with a concentration in Machine Intelligence"
+        "description":"I am currently enrolled for a Bachelors Degree in Computer Engineering with a concentration in Machine Intelligence"
       },
       {
         "school":"Online Courses",
@@ -100,7 +100,7 @@
     "projects": [
       {
         "title":"Cryptocurrensea Store",
-        "category":"An online Dropshipping Store I run as part of a means of funding the software development.",
+        "category":"An online Dropshipping Tech Store I run as a means of funding the software development.",
         "image":"Cryptoshop.png",
         "url":"https://store.cryptocurrensea.io"
       },
