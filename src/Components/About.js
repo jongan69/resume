@@ -25,6 +25,7 @@ class About extends Component {
          <div className="nine columns main-col">
 
 <iframe 
+title="Finals are Over Timelapse"
 width="300" 
 height="200" 
 src="https://www.youtube.com/embed/ELSdieLPV70" 
