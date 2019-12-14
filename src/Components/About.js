@@ -26,7 +26,7 @@ class About extends Component {
 
 <iframe 
 title="Finals are Over Timelapse"
-width="300" 
+width="310" 
 height="200" 
 src="https://www.youtube.com/embed/ELSdieLPV70" 
 frameborder="0" 
