@@ -100,15 +100,9 @@
     "projects": [
       {
         "title":"Cryptocurrensea Store",
-        "category":"An online Dropshipping Tech Store I run as a means of funding the software development.",
+        "category":"An online Tech Store and Software Development Firm",
         "image":"Cryptoshop.png",
         "url":"https://store.cryptocurrensea.io"
-      },
-      {
-        "title":"Cryptocurrensea",
-        "category":"A software development firm I aim to get off the ground.",
-        "image":"cryptocurrensea.png",
-        "url":"https://cryptocurrensea.io"
       },
       {
         "title":"Amplify",
