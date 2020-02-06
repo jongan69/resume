@@ -104,6 +104,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Social Lite",
+        "category":"An AI based Social Personality Reader",
+        "image":"sociallite.png",
+        "url":"https://social-lite-266915.appspot.com"
+      },
+      {
         "title":"Cryptocurrensea Store",
         "category":"An online Tech Store and Software Development Firm",
         "image":"Cryptoshop.png",
@@ -113,7 +119,7 @@
         "title":"Amplify",
         "category":"A mobile app that was built to amplify a stadium vistitors expirience",
         "image":"amplifyapp.PNG",
-        "url":"github.com/jongan69/amplify"
+        "url":"https://github.com/jongan69/amplify"
       },
       {
         "title":"Volunteer Space",
@@ -125,13 +131,13 @@
         "title":"Prepit App",
         "category":"An application for food and dietary information",
         "image":"Prepit.PNG",
-        "url":"https://prepit.org"
+        "url":"https://calc.prepit.org"
       },
        {
         "title":"Phoenix Hacks App",
         "category":"A mobile application being built for the 2020 Florida Polytechnic Univeristy Phoenix Hackathon",
         "image":"phoenixhacksapp.jpeg",
-        "url":"http://www.phoenixhacks.com"
+        "url":"https://www.phoenixhacks.com"
       }
     ]
   },
