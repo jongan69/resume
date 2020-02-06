@@ -45,7 +45,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I am most skilled in Javascript ES6 / React + React Native with expirience in C/C++/Objective-C, Swift, Mongodb, Azure, AWS, Heroku, UX/UI, and SCRUM",
+    "skillmessage":"I am most skilled in Javascript ES6 / React + React Native with expirience in C/C++/Objective-C, Swift, Mongodb, Azure, AWS, Heroku, UX/UI, and SCRUM. Below is a visual representation of how I would rate my skills as a percentile.",
     "education":[
       {
         "school":"Florida Polytechnic University",
@@ -57,7 +57,7 @@
         "school":"Online Courses",
         "degree":"EDX / Udemy / Linkedin Learning",
         "graduated":"N/A",
-        "description":"I do online courses for cirtifications that can be seen on my Linkedin"
+        "description":"I do online courses for certifications that can be seen on my Linkedin"
       }
     ],
     "work":[
