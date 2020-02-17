@@ -41,7 +41,12 @@
         "name":"medium",
         "url":"http://medium.com/@cryptocurrensea",
         "className":"fa fa-bookmark"
-      }
+      },
+      {
+				"name": "Amazon",
+				"url": "www.amazon.com/shop/cryptocurrensea",
+				"className": "fa fa-shopping-cart"
+			}
     ]
   },
   "resume":{
