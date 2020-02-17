@@ -14,7 +14,7 @@
       "state":"Florida",
       "zip": "33805"
     },
-    "website": "http://www.cryptocurrensea.io",
+    "website": "https://cryptocurrensea.io",
     "resumedownload":"https://drive.google.com/file/d/1z4nm4CGIaNYONVhVQ10ckhM5epxyTLu-/view?usp=sharing",
     "social":[
       {
@@ -29,22 +29,22 @@
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/jongan69",
+        "url":"https://instagram.com/jongan69",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/jongan69",
+        "url":"https://github.com/jongan69",
         "className":"fa fa-github"
       },
         {
         "name":"medium",
-        "url":"http://medium.com/@cryptocurrensea",
+        "url":"https://medium.com/@cryptocurrensea",
         "className":"fa fa-bookmark"
       },
       {
 				"name": "Amazon",
-				"url": "www.amazon.com/shop/cryptocurrensea",
+				"url": "https://www.amazon.com/shop/cryptocurrensea",
 				"className": "fa fa-shopping-cart"
 			}
     ]
