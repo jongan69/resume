@@ -46,6 +46,11 @@
 				"name": "Amazon",
 				"url": "https://www.amazon.com/shop/cryptocurrensea",
 				"className": "fa fa-shopping-cart"
+			},
+      {
+				"name": "Youtube",
+				"url": "https://www.youtube.com/channel/UCj2qx1zXvPtzg-MDADw1kOQ",
+				"className": "fa fa-youtube"
 			}
     ]
   },
