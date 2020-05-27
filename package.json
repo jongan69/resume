@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "eslint": "7.1.0",
+    "eslint": "6.6",
     "eslint-plugin-flowtype": "^5.1.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.4.1",

@@ -154,13 +154,13 @@
       {
         "title":"To Do list",
         "category":"A mobile application being built for the 2020 Florida Polytechnic Univeristy Phoenix Hackathon",
-        "image":"phoenixhacksapp.jpeg",
+        "image":"todo.PNG",
         "url":"https://www.2dolist.tech/"
       },
       {
         "title":"LED Cube",
         "category":"A mobile application being built for the 2020 Florida Polytechnic Univeristy Phoenix Hackathon",
-        "image":"phoenixhacksapp.jpeg",
+        "image":"cube.jpeg",
         "url":"https://medium.com/@jongan69/building-my-first-led-cube-during-covid-19-v1-0-52900fe304a4"
       }
     ]
