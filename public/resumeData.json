@@ -15,7 +15,7 @@
       "zip": "33805"
     },
     "website": "https://cryptocurrensea.io",
-    "resumedownload":"https://drive.google.com/file/d/1z4nm4CGIaNYONVhVQ10ckhM5epxyTLu-/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1qaeRsXqZfyjMhFqh-C_lhNBnxzyrfmKz/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -74,8 +74,8 @@
       {
         "company":"Blockspaces",
         "title":"Blockchain Research Intern",
-        "years":"October 2019 - Present",
-        "description":"I research the different blockchain technoloigies that Blockspaces assigns me for internal development purposes"
+        "years":"October 2019 - Feb 2020",
+        "description":"I researched the different blockchain technoloigies that Blockspaces assigns me for internal development purposes"
       },
        {
 					"company": "Accusoft",
@@ -88,6 +88,10 @@
       {
         "name":"Git",
         "level":"90%"
+      },
+      {
+        "name":"C/C++",
+        "level":"60%"
       },
       {
         "name":"CSS",
@@ -104,6 +108,14 @@
       {
         "name":"React",
         "level":"50%"
+      },
+      {
+        "name":"Assembly [AVR,MIPS]",
+        "level":"50%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
       }
     ]
   },
@@ -113,13 +125,7 @@
         "title":"Social Lite",
         "category":"An AI based Social Personality Reader",
         "image":"sociallite.png",
-        "url":"https://social-lite-266915.appspot.com"
-      },
-      {
-        "title":"Cryptocurrensea Store",
-        "category":"An online Tech Store and Software Development Firm",
-        "image":"Cryptoshop.png",
-        "url":"https://cryptocurrensea.io"
+        "url":"https://github.com/jongan69/sociallite"
       },
       {
         "title":"Amplify",
@@ -137,25 +143,37 @@
         "title":"Prepit App",
         "category":"An application for food and dietary information",
         "image":"Prepit.PNG",
-        "url":"https://calc.prepit.org"
+        "url":"https://github.com/jongan69/prepitcalc"
       },
        {
         "title":"Phoenix Hacks App",
         "category":"A mobile application being built for the 2020 Florida Polytechnic Univeristy Phoenix Hackathon",
         "image":"phoenixhacksapp.jpeg",
         "url":"https://www.phoenixhacks.com"
+      },
+      {
+        "title":"To Do list",
+        "category":"A mobile application being built for the 2020 Florida Polytechnic Univeristy Phoenix Hackathon",
+        "image":"phoenixhacksapp.jpeg",
+        "url":"https://www.2dolist.tech/"
+      },
+      {
+        "title":"LED Cube",
+        "category":"A mobile application being built for the 2020 Florida Polytechnic Univeristy Phoenix Hackathon",
+        "image":"phoenixhacksapp.jpeg",
+        "url":"https://medium.com/@jongan69/building-my-first-led-cube-during-covid-19-v1-0-52900fe304a4"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"\"No cap, this guy's good\"",
-        "user":"Mom"
+        "text":"\"He works hard, is knowledgable on various IT feilds inclduing software engineering\"",
+        "user":"Kelly D."
       },
       {
         "text":"\"Jon doesn't give up on any project he's handed and will do the best work he can give\"",
-        "user":"Unknown"
+        "user":"Chris P."
       }
     ]
   }
