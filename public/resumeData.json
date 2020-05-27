@@ -4,7 +4,7 @@
     "occupation":"Computer Engineering Student",
     "description":"I am a Full Stack React / React Native Developer with interest in Photography, Blockchain & Mobile Application Development",
     "image":"profilepic.JPG",
-    "bio":"I love to use Javascript and React Native to Develop amazing Technologies. I also write medium articles @jongan69",
+    "bio":"I love to use Javascript and React Native to Develop amazing Technologies. To find out more about my work, look at my Medium, Github, adn Devpost Projects under @jongan69!",
     "contactmessage":"If you have any software needs, feel free to reach out and even if I can't assist you I can connect you with someone who can!",
     "email": "jonathang132298@gmail.com",
     "phone": "727-325-3436",
@@ -39,7 +39,7 @@
       },
         {
         "name":"medium",
-        "url":"https://medium.com/@cryptocurrensea",
+        "url":"https://medium.com/@jongan69",
         "className":"fa fa-bookmark"
       },
       {
@@ -122,14 +122,8 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Social Lite",
-        "category":"An AI based Social Personality Reader",
-        "image":"sociallite.png",
-        "url":"https://github.com/jongan69/sociallite"
-      },
-      {
         "title":"Amplify",
-        "category":"A mobile app that was built to amplify a stadium vistitors expirience",
+        "category":"A mobile app that was built to amplify a stadium vistitors expirience for a private hackathon using React Native",
         "image":"amplifyapp.PNG",
         "url":"https://github.com/jongan69/amplify"
       },
@@ -141,25 +135,13 @@
       },
       {
         "title":"Prepit App",
-        "category":"An application for food and dietary information",
+        "category":"An application for food and dietary information that I built as a side project and personal business.",
         "image":"Prepit.PNG",
         "url":"https://github.com/jongan69/prepitcalc"
       },
-       {
-        "title":"Phoenix Hacks App",
-        "category":"A mobile application being built for the 2020 Florida Polytechnic Univeristy Phoenix Hackathon",
-        "image":"phoenixhacksapp.jpeg",
-        "url":"https://www.phoenixhacks.com"
-      },
-      {
-        "title":"To Do list",
-        "category":"A mobile application being built for the 2020 Florida Polytechnic Univeristy Phoenix Hackathon",
-        "image":"todo.PNG",
-        "url":"https://www.2dolist.tech/"
-      },
       {
         "title":"LED Cube",
-        "category":"A mobile application being built for the 2020 Florida Polytechnic Univeristy Phoenix Hackathon",
+        "category":"A 3 x 3 x 3 Matrix that I soldered and coded using an Arduino UNO with Assmebly and C for my Microcomputers class.",
         "image":"cube.jpeg",
         "url":"https://medium.com/@jongan69/building-my-first-led-cube-during-covid-19-v1-0-52900fe304a4"
       }
