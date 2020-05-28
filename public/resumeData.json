@@ -123,25 +123,25 @@
     "projects": [
       {
         "title":"Amplify",
-        "category":"A mobile app that was built to amplify a stadium vistitors expirience for a private hackathon using React Native",
+        "category":"A mobile app that was built to enhance a stadium vistitors using React Native",
         "image":"amplifyapp.PNG",
         "url":"https://github.com/jongan69/amplify"
       },
       {
-        "title":"Volunteer Space",
-        "category":"A React blockchain platform that was built at a hackathon to verify volunteer hours and events",
-        "image":"volunteerspace.PNG",
-        "url":"http://unpaidlabor.tech"
+        "title":"Giglend App",
+        "category":"A React Native Application built for a failed startup at my university.",
+        "image":"icon.png",
+        "url":"https://github.com/jongan69/giglendexpo"
       },
       {
         "title":"Prepit App",
-        "category":"An application for food and dietary information that I built as a side project and personal business.",
+        "category":"An application for food and dietary information that I built as a side project.",
         "image":"Prepit.PNG",
         "url":"https://github.com/jongan69/prepitcalc"
       },
       {
         "title":"LED Cube",
-        "category":"A 3 x 3 x 3 Matrix that I soldered and coded using an Arduino UNO with Assmebly and C for my Microcomputers class.",
+        "category":"A 3 x 3 x 3 Matrix, click to read more.",
         "image":"cube.jpeg",
         "url":"https://medium.com/@jongan69/building-my-first-led-cube-during-covid-19-v1-0-52900fe304a4"
       }
