@@ -122,6 +122,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Cryptocurrensea",
+        "category":"A personal business website I built using Bootstrap to get private web development clients.",
+        "image":"crypto.PNG",
+        "url":"hhttps://cryptocurrensea.io/ "
+      },
+      {
         "title":"Amplify",
         "category":"A mobile app that was built to enhance a stadium vistitors using React Native",
         "image":"amplifyapp.PNG",
@@ -142,14 +148,14 @@
       {
         "title":"Fish Hunters Charters",
         "category":"A private project where a client asked me to SEO optimize and WordPress upgrade his site.",
-        "image":"Fish.PNG",
+        "image":"Fish.png",
         "url":"https://Fishhunterscharters.com"
       },
       {
-        "title":"Antisocial Smoke Society",
-        "category":"A private project where a client asked me to build a shopify store for his local smoke shop and redesign.",
-        "image":"smoke.PNG",
-        "url":"https://antisocialsmoke.com"
+        "title":"Sams Kitchen",
+        "category":"A private project where a client asked me to build a website for their Cooking Business.",
+        "image":"sams.png",
+        "url":"https://samskitchen.bss.design/"
       },
       {
         "title":"Antisocial Smoke Society",
