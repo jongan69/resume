@@ -17,11 +17,21 @@
     "website": "https://cryptocurrensea.io",
     "resumedownload":"https://drive.google.com/file/d/1qaeRsXqZfyjMhFqh-C_lhNBnxzyrfmKz/view?usp=sharing",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://www.facebook.com/cryptocurensea",
-        "className":"fa fa-facebook"
+       {
+        "name":"medium",
+        "url":"https://medium.com/@jongan69",
+        "className":"fa fa-bookmark"
       },
+      {
+				"name": "Amazon",
+				"url": "https://www.amazon.com/shop/cryptocurrensea",
+				"className": "fa fa-shopping-cart"
+			},
+      {
+				"name": "Youtube",
+				"url": "https://www.youtube.com/channel/UCj2qx1zXvPtzg-MDADw1kOQ",
+				"className": "fa fa-youtube"
+			},
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/jongan69",
@@ -36,22 +46,7 @@
         "name":"github",
         "url":"https://github.com/jongan69",
         "className":"fa fa-github"
-      },
-        {
-        "name":"medium",
-        "url":"https://medium.com/@jongan69",
-        "className":"fa fa-bookmark"
-      },
-      {
-				"name": "Amazon",
-				"url": "https://www.amazon.com/shop/cryptocurrensea",
-				"className": "fa fa-shopping-cart"
-			},
-      {
-				"name": "Youtube",
-				"url": "https://www.youtube.com/channel/UCj2qx1zXvPtzg-MDADw1kOQ",
-				"className": "fa fa-youtube"
-			}
+      }
     ]
   },
   "resume":{
